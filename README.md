@@ -6,9 +6,9 @@
 
 17 standalone public skills for **Codex and Claude**: user voice, LinkedIn writing, research, analytics, Reel scripting and Gemini image prompts. This repository is a public toolkit, not the complete private LinkedIn AI OS, its Figma production pipeline, or the maintainer's accounts and configuration.
 
-Built by [Sachindu sankalpa]. Subscribe to the [MarTech AI newsletter](https://charliehills.substack.com) for weekly breakdowns of how this system works in practice.
+Built by [Sachindu sankalpa]. Subscribe to the [MarTech AI newsletter] for weekly breakdowns of how this system works in practice.
 
-**Contributions welcome.** Found a way to improve a skill? [Open a PR](https://github.com/charlie947/social-media-skills/pulls). Run into a problem? [Open an issue](https://github.com/charlie947/social-media-skills/issues).
+**Contributions welcome.** Found a way to improve a skill? [Open a PR]. Run into a problem? [Open an issue]
 
 ## What are Skills?
 
@@ -209,6 +209,6 @@ Run `bash validate-skills.sh` and `python3 tests/test-codex-portability.py` befo
 
 ## License
 
-[MIT](LICENSE). Use these however you like. If they help you, a link back to the [newsletter](https://charliehills.substack.com) is appreciated.
+[MIT](LICENSE). Use these however you like. If they help you, a link back to the [newsletter]appreciated.
 
 — Charlie
