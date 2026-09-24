@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Social Media Skills by Charlie Hills" width="100%"/>
+  <img src="assets/banner.svg" alt="Social Media Skills" width="100%"/>
 </p>
 
 # Social Media Skills for AI Agents
 
 17 standalone public skills for **Codex and Claude**: user voice, LinkedIn writing, research, analytics, Reel scripting and Gemini image prompts. This repository is a public toolkit, not the complete private LinkedIn AI OS, its Figma production pipeline, or the maintainer's accounts and configuration.
 
-Built by [Charlie Hills](https://charliehills.substack.com). Subscribe to the [MarTech AI newsletter](https://charliehills.substack.com) for weekly breakdowns of how this system works in practice.
+Built by [Sachindu sankalpa]. Subscribe to the [MarTech AI newsletter](https://charliehills.substack.com) for weekly breakdowns of how this system works in practice.
 
 **Contributions welcome.** Found a way to improve a skill? [Open a PR](https://github.com/charlie947/social-media-skills/pulls). Run into a problem? [Open an issue](https://github.com/charlie947/social-media-skills/issues).
 
